@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-🔗 [your-app.vercel.app](https://your-app.vercel.app) ← بعد از deploy آدرس رو اینجا بذار
+🔗 [todolist268.netlify.app](https://todolist268.netlify.app)
 
 ## Features
 
